@@ -55,8 +55,8 @@ export const CurrentStatus: React.FC = () => {
             <span className="font-sans text-[10px] tracking-[0.2em] text-gray-300 uppercase block mb-2">
               EDUCATION
             </span>
-            <p className="font-serif text-xl md:text-2xl">BBA</p>
-            <p className="font-sans text-sm text-gray-500 mt-1">JMS Group, Hapur</p>
+            <p className="font-serif text-xl md:text-2xl">BBA AI</p>
+            <p className="font-sans text-sm text-gray-500 mt-1">Galgotias University</p>
           </motion.div>
 
           {/* Independent Work */}

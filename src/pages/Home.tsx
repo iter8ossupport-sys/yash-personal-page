@@ -150,7 +150,7 @@ export const Home: React.FC = () => {
               animate={{ opacity: contentReady ? 1 : 0 }}
               transition={{ duration: 0.4, delay: 0.3 }}
             >
-              BBA · Independent AI Product &amp; Growth Operator
+              BBA AI · Independent AI Product &amp; Growth Operator
             </motion.p>
 
             {/* CTAs */}
